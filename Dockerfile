@@ -4,7 +4,7 @@
 #
 ################################################
 
-FROM        alpine:3.16.2
+FROM        alpine:3.23.3
 MAINTAINER  Openstack Swift
 
 ENV	        S6_LOGGING 1
